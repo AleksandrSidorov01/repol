@@ -1,1 +1,1 @@
-echo "Some initial content"
+Some initial content
